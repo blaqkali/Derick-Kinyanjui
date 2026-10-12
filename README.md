@@ -146,7 +146,7 @@ Practical machine learning and exploratory data analysis projects focused on ext
 ## ⚡ Languages, Libraries and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode" alt="Python, PyTorch, Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode" alt="Python, PyTorch, Git, GitHub "/>
 </p>
 
 <p align="center">
