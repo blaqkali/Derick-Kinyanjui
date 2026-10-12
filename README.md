@@ -146,7 +146,7 @@ Practical machine learning and exploratory data analysis projects focused on ext
 ## ⚡ Languages, Libraries and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode" alt="Python, PyTorch, Git, GitHub "/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode" alt="Python, PyTorch, Git, GitHub and VS Code"/>
 </p>
 
 <p align="center">
@@ -157,33 +157,27 @@ Practical machine learning and exploratory data analysis projects focused on ext
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 </p>
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most used programming languages"/>
-\</p>
-
 ---
 
 ## 🌍 Connect With Me
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/YOUR_USERNAME](https://github.com/[YOUR_USERNAME](https://github.com/blaqkali))">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/YOUR_LINKEDIN/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-&#x20; \<a href="mailto\:YOUR_EMAIL\@example.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
-&#x20; \</a>
-\</p>
-
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 ---
 
-\<p align="center">
-&#x20; \<i>Building at the intersection of mathematics, numerical computation, and intelligent systems.\</i>
-\</p>
+<p align="center">
+  <i>Building at the intersection of mathematics, numerical computation, and intelligent systems.</i>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=36BCF7\&height=100\&section=footer)" alt="Profile footer"/>
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="Profile footer"/>
+</p>
