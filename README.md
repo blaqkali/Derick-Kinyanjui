@@ -162,7 +162,7 @@ Practical machine learning and exploratory data analysis projects focused on ext
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/[https://github.com/blaqkali](https://github.com/blaqkali/blaqkali)">
+  <a href="https://github.com/[[https://github.com/blaqkali](https://github.com/blaqkali/blaqkali)](https://github.com/blaqkali)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
